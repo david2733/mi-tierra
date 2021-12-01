@@ -1,2 +1,2 @@
 # mi-tierra
-pagina web para hotel
+pagina web para el hotel de mi amigo
